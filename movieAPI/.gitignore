@@ -1,0 +1,7 @@
+node_modules
+
+//archivos de entorno
+.env
+
+//contraseña de mongo
+contraseña_mongo.txt
